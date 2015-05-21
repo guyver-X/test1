@@ -1,1 +1,3 @@
 I am new2 txt!
+
+Now i add a new line in this txt!
